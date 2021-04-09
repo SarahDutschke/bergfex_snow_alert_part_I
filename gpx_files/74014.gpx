@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <time>2020-10-01T15:28:46.063Z</time>
+    <bounds minlat="45.867363000" minlon="8.978851000" maxlat="45.869862000" maxlon="8.989424000"/>
+  </metadata>
+  <trk>
+    <name>Kulturtour durch Mendrisio</name>
+    <trkseg>
+      <trkpt lat="45.867363000" lon="8.983347000">
+        <ele>357.000000</ele>
+        <time>2012-05-01T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="45.868713000" lon="8.989424000">
+        <ele>378.000000</ele>
+        <time>2012-05-01T08:00:33Z</time>
+      </trkpt>
+      <trkpt lat="45.869862000" lon="8.987652000">
+        <ele>362.000000</ele>
+        <time>2012-05-01T08:01:06Z</time>
+      </trkpt>
+      <trkpt lat="45.868973000" lon="8.978851000">
+        <ele>331.000000</ele>
+        <time>2012-05-01T08:01:39Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-03-22T13:39:29.287Z</time>
+    <bounds minlat="46.309971000" minlon="7.209326000" maxlat="46.326839000" maxlon="7.223984000"/>
+  </metadata>
+  <trk>
+    <name>Glacier Walk</name>
+    <trkseg>
+      <trkpt lat="46.326839000" lon="7.209326000">
+        <ele>2804.000000</ele>
+      </trkpt>
+      <trkpt lat="46.323460000" lon="7.211536000">
+        <ele>2830.000000</ele>
+      </trkpt>
+      <trkpt lat="46.321445000" lon="7.215398000">
+        <ele>2831.000000</ele>
+      </trkpt>
+      <trkpt lat="46.320496000" lon="7.217801000">
+        <ele>2823.000000</ele>
+      </trkpt>
+      <trkpt lat="46.317162000" lon="7.219067000">
+        <ele>2829.000000</ele>
+      </trkpt>
+      <trkpt lat="46.315826000" lon="7.219744000">
+        <ele>2837.000000</ele>
+      </trkpt>
+      <trkpt lat="46.313324000" lon="7.221311000">
+        <ele>2843.000000</ele>
+      </trkpt>
+      <trkpt lat="46.312702000" lon="7.220281000">
+        <ele>2846.000000</ele>
+      </trkpt>
+      <trkpt lat="46.312317000" lon="7.220410000">
+        <ele>2849.000000</ele>
+      </trkpt>
+      <trkpt lat="46.311958000" lon="7.220174000">
+        <ele>2851.000000</ele>
+      </trkpt>
+      <trkpt lat="46.311680000" lon="7.220152000">
+        <ele>2852.000000</ele>
+      </trkpt>
+      <trkpt lat="46.311234000" lon="7.222083000">
+        <ele>2850.000000</ele>
+      </trkpt>
+      <trkpt lat="46.310390000" lon="7.223176000">
+        <ele>2843.000000</ele>
+      </trkpt>
+      <trkpt lat="46.309971000" lon="7.223984000">
+        <ele>2839.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

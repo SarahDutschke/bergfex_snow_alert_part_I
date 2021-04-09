@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-02-15T18:40:30.895Z</time>
+    <bounds minlat="46.303898000" minlon="7.189054000" maxlat="46.326069000" maxlon="7.210032000"/>
+  </metadata>
+  <trk>
+    <name>Le Sommet des Diablerets (3210 m ü. M.)</name>
+    <trkseg>
+      <trkpt lat="46.326069000" lon="7.205641000">
+        <ele>2897.000000</ele>
+      </trkpt>
+      <trkpt lat="46.325027000" lon="7.207463000">
+        <ele>2864.000000</ele>
+      </trkpt>
+      <trkpt lat="46.324203000" lon="7.208635000">
+        <ele>2856.000000</ele>
+      </trkpt>
+      <trkpt lat="46.323685000" lon="7.209079000">
+        <ele>2864.000000</ele>
+      </trkpt>
+      <trkpt lat="46.322136000" lon="7.209683000">
+        <ele>2838.000000</ele>
+      </trkpt>
+      <trkpt lat="46.320553000" lon="7.209975000">
+        <ele>2846.000000</ele>
+      </trkpt>
+      <trkpt lat="46.319332000" lon="7.210032000">
+        <ele>2872.000000</ele>
+      </trkpt>
+      <trkpt lat="46.318287000" lon="7.209543000">
+        <ele>2877.000000</ele>
+      </trkpt>
+      <trkpt lat="46.317295000" lon="7.209210000">
+        <ele>2893.000000</ele>
+      </trkpt>
+      <trkpt lat="46.315945000" lon="7.207762000">
+        <ele>2925.000000</ele>
+      </trkpt>
+      <trkpt lat="46.314121000" lon="7.205303000">
+        <ele>2969.000000</ele>
+      </trkpt>
+      <trkpt lat="46.314030000" lon="7.204239000">
+        <ele>2942.000000</ele>
+      </trkpt>
+      <trkpt lat="46.313183000" lon="7.203022000">
+        <ele>2965.000000</ele>
+      </trkpt>
+      <trkpt lat="46.307228000" lon="7.195961000">
+        <ele>3088.000000</ele>
+      </trkpt>
+      <trkpt lat="46.305714000" lon="7.193579000">
+        <ele>3143.000000</ele>
+      </trkpt>
+      <trkpt lat="46.303993000" lon="7.189615000">
+        <ele>3102.000000</ele>
+      </trkpt>
+      <trkpt lat="46.303898000" lon="7.189054000">
+        <ele>3057.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

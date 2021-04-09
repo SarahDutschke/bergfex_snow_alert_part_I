@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2020-10-13T15:03:46.370Z</time>
+    <bounds minlat="46.824398000" minlon="7.300388000" maxlat="46.838749000" maxlon="7.334940000"/>
+  </metadata>
+  <trk>
+    <name>Boucle depuis Sodbach</name>
+    <trkseg>
+      <trkpt lat="46.825382000" lon="7.318217000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="46.825451000" lon="7.318313000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T08:00:33Z</time>
+      </trkpt>
+      <trkpt lat="46.825298000" lon="7.318510000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T08:01:06Z</time>
+      </trkpt>
+      <trkpt lat="46.825302000" lon="7.317844000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T08:01:39Z</time>
+      </trkpt>
+      <trkpt lat="46.825123000" lon="7.316906000">
+        <ele>650.000000</ele>
+        <time>2012-05-01T08:02:12Z</time>
+      </trkpt>
+      <trkpt lat="46.824783000" lon="7.316300000">
+        <ele>652.000000</ele>
+        <time>2012-05-01T08:02:45Z</time>
+      </trkpt>
+      <trkpt lat="46.824398000" lon="7.315916000">
+        <ele>655.000000</ele>
+        <time>2012-05-01T08:03:18Z</time>
+      </trkpt>
+      <trkpt lat="46.824398000" lon="7.315595000">
+        <ele>657.000000</ele>
+        <time>2012-05-01T08:03:51Z</time>
+      </trkpt>
+      <trkpt lat="46.824432000" lon="7.315551000">
+        <ele>658.000000</ele>
+        <time>2012-05-01T08:04:24Z</time>
+      </trkpt>
+      <trkpt lat="46.824654000" lon="7.315584000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T08:04:57Z</time>
+      </trkpt>
+      <trkpt lat="46.824898000" lon="7.315817000">
+        <ele>665.000000</ele>
+        <time>2012-05-01T08:05:30Z</time>
+      </trkpt>
+      <trkpt lat="46.825077000" lon="7.315711000">
+        <ele>668.000000</ele>
+        <time>2012-05-01T08:06:03Z</time>
+      </trkpt>
+      <trkpt lat="46.825344000" lon="7.315968000">
+        <ele>674.000000</ele>
+        <time>2012-05-01T08:06:36Z</time>
+      </trkpt>
+      <trkpt lat="46.825703000" lon="7.316482000">
+        <ele>684.000000</ele>
+        <time>2012-05-01T08:07:09Z</time>
+      </trkpt>
+      <trkpt lat="46.825996000" lon="7.316473000">
+        <ele>691.000000</ele>
+        <time>2012-05-01T08:07:42Z</time>
+      </trkpt>
+      <trkpt lat="46.826126000" lon="7.316318000">
+        <ele>694.000000</ele>
+        <time>2012-05-01T08:08:15Z</time>
+      </trkpt>
+      <trkpt lat="46.826283000" lon="7.316355000">
+        <ele>697.000000</ele>
+        <time>2012-05-01T08:08:48Z</time>
+      </trkpt>
+      <trkpt lat="46.826324000" lon="7.316113000">
+        <ele>700.000000</ele>
+        <time>2012-05-01T08:09:21Z</time>
+      </trkpt>
+      <trkpt lat="46.826385000" lon="7.316480000">
+        <ele>703.000000</ele>
+        <time>2012-05-01T08:09:54Z</time>
+      </trkpt>
+      <trkpt lat="46.826550000" lon="7.316624000">
+        <ele>706.000000</ele>
+        <time>2012-05-01T08:10:27Z</time>
+      </trkpt>
+      <trkpt lat="46.826553000" lon="7.316765000">
+        <ele>708.000000</ele>
+        <time>2012-05-01T08:11:00Z</time>
+      </trkpt>
+      <trkpt lat="46.826851000" lon="7.316789000">
+        <ele>713.000000</ele>
+        <time>2012-05-01T08:11:33Z</time>
+      </trkpt>
+      <trkpt lat="46.827042000" lon="7.316561000">
+        <ele>717.000000</ele>
+        <time>2012-05-01T08:12:06Z</time>
+      </trkpt>
+      <trkpt lat="46.827049000" lon="7.316413000">
+        <ele>718.000000</ele>
+        <time>2012-05-01T08:12:39Z</time>
+      </trkpt>
+      <trkpt lat="46.827202000" lon="7.316117000">
+        <ele>721.000000</ele>
+        <time>2012-05-01T08:13:12Z</time>
+      </trkpt>
+      <trkpt lat="46.826973000" lon="7.315472000">
+        <ele>726.000000</ele>
+        <time>2012-05-01T08:13:45Z</time>
+      </trkpt>
+      <trkpt lat="46.826920000" lon="7.315040000">
+        <ele>729.000000</ele>
+        <time>2012-05-01T08:14:18Z</time>
+      </trkpt>
+      <trkpt lat="46.827141000" lon="7.314527000">
+        <ele>734.000000</ele>
+        <time>2012-05-01T08:14:51Z</time>
+      </trkpt>
+      <trkpt lat="46.827629000" lon="7.313805000">
+        <ele>742.000000</ele>
+        <time>2012-05-01T08:15:24Z</time>
+      </trkpt>
+      <trkpt lat="46.827873000" lon="7.312918000">
+        <ele>746.000000</ele>
+        <time>2012-05-01T08:15:57Z</time>
+      </trkpt>
+      <trkpt lat="46.827793000" lon="7.311474000">
+        <ele>748.000000</ele>
+        <time>2012-05-01T08:16:30Z</time>
+      </trkpt>
+      <trkpt lat="46.827518000" lon="7.310718000">
+        <ele>749.000000</ele>
+        <time>2012-05-01T08:17:03Z</time>
+      </trkpt>
+      <trkpt lat="46.827438000" lon="7.310215000">
+        <ele>749.000000</ele>
+        <time>2012-05-01T08:17:36Z</time>
+      </trkpt>
+      <trkpt lat="46.827446000" lon="7.308581000">
+        <ele>751.000000</ele>
+        <time>2012-05-01T08:18:09Z</time>
+      </trkpt>
+      <trkpt lat="46.827194000" lon="7.307625000">
+        <ele>752.000000</ele>
+        <time>2012-05-01T08:18:42Z</time>
+      </trkpt>
+      <trkpt lat="46.827213000" lon="7.306885000">
+        <ele>752.000000</ele>
+        <time>2012-05-01T08:19:15Z</time>
+      </trkpt>
+      <trkpt lat="46.827133000" lon="7.306036000">
+        <ele>753.000000</ele>
+        <time>2012-05-01T08:19:48Z</time>
+      </trkpt>
+      <trkpt lat="46.826805000" lon="7.304805000">
+        <ele>755.000000</ele>
+        <time>2012-05-01T08:20:21Z</time>
+      </trkpt>
+      <trkpt lat="46.826664000" lon="7.304482000">
+        <ele>756.000000</ele>
+        <time>2012-05-01T08:20:54Z</time>
+      </trkpt>
+      <trkpt lat="46.825523000" lon="7.302720000">
+        <ele>762.000000</ele>
+        <time>2012-05-01T08:21:27Z</time>
+      </trkpt>
+      <trkpt lat="46.825500000" lon="7.302514000">
+        <ele>762.000000</ele>
+        <time>2012-05-01T08:22:00Z</time>
+      </trkpt>
+      <trkpt lat="46.825928000" lon="7.302142000">
+        <ele>761.000000</ele>
+        <time>2012-05-01T08:22:33Z</time>
+      </trkpt>
+      <trkpt lat="46.826118000" lon="7.302084000">
+        <ele>760.000000</ele>
+        <time>2012-05-01T08:23:06Z</time>
+      </trkpt>
+      <trkpt lat="46.826237000" lon="7.301930000">
+        <ele>760.000000</ele>
+        <time>2012-05-01T08:23:39Z</time>
+      </trkpt>
+      <trkpt lat="46.826298000" lon="7.301564000">
+        <ele>761.000000</ele>
+        <time>2012-05-01T08:24:12Z</time>
+      </trkpt>
+      <trkpt lat="46.826447000" lon="7.301505000">
+        <ele>761.000000</ele>
+        <time>2012-05-01T08:24:45Z</time>
+      </trkpt>
+      <trkpt lat="46.826565000" lon="7.301337000">
+        <ele>762.000000</ele>
+        <time>2012-05-01T08:25:18Z</time>
+      </trkpt>
+      <trkpt lat="46.826641000" lon="7.301054000">
+        <ele>763.000000</ele>
+        <time>2012-05-01T08:25:51Z</time>
+      </trkpt>
+      <trkpt lat="46.826756000" lon="7.301053000">
+        <ele>764.000000</ele>
+        <time>2012-05-01T08:26:24Z</time>
+      </trkpt>
+      <trkpt lat="46.826900000" lon="7.301165000">
+        <ele>764.000000</ele>
+        <time>2012-05-01T08:26:57Z</time>
+      </trkpt>
+      <trkpt lat="46.827003000" lon="7.301018000">
+        <ele>765.000000</ele>
+        <time>2012-05-01T08:27:30Z</time>
+      </trkpt>
+      <trkpt lat="46.827240000" lon="7.300961000">
+        <ele>768.000000</ele>
+        <time>2012-05-01T08:28:03Z</time>
+      </trkpt>
+      <trkpt lat="46.827381000" lon="7.300764000">
+        <ele>770.000000</ele>
+        <time>2012-05-01T08:28:36Z</time>
+      </trkpt>
+      <trkpt lat="46.827484000" lon="7.300730000">
+        <ele>771.000000</ele>
+        <time>2012-05-01T08:29:09Z</time>
+      </trkpt>
+      <trkpt lat="46.827602000" lon="7.300829000">
+        <ele>773.000000</ele>
+        <time>2012-05-01T08:29:42Z</time>
+      </trkpt>
+      <trkpt lat="46.827873000" lon="7.300388000">
+        <ele>778.000000</ele>
+        <time>2012-05-01T08:30:15Z</time>
+      </trkpt>
+      <trkpt lat="46.828472000" lon="7.300657000">
+        <ele>783.000000</ele>
+        <time>2012-05-01T08:30:48Z</time>
+      </trkpt>
+      <trkpt lat="46.828621000" lon="7.301219000">
+        <ele>784.000000</ele>
+        <time>2012-05-01T08:31:21Z</time>
+      </trkpt>
+      <trkpt lat="46.828724000" lon="7.302328000">
+        <ele>783.000000</ele>
+        <time>2012-05-01T08:31:54Z</time>
+      </trkpt>
+      <trkpt lat="46.828632000" lon="7.303433000">
+        <ele>777.000000</ele>
+        <time>2012-05-01T08:32:27Z</time>
+      </trkpt>
+      <trkpt lat="46.828575000" lon="7.303536000">
+        <ele>776.000000</ele>
+        <time>2012-05-01T08:33:00Z</time>
+      </trkpt>
+      <trkpt lat="46.828766000" lon="7.305235000">
+        <ele>768.000000</ele>
+        <time>2012-05-01T08:33:33Z</time>
+      </trkpt>
+      <trkpt lat="46.829082000" lon="7.306436000">
+        <ele>766.000000</ele>
+        <time>2012-05-01T08:34:06Z</time>
+      </trkpt>
+      <trkpt lat="46.829201000" lon="7.306657000">
+        <ele>765.000000</ele>
+        <time>2012-05-01T08:34:39Z</time>
+      </trkpt>
+      <trkpt lat="46.829308000" lon="7.307159000">
+        <ele>765.000000</ele>
+        <time>2012-05-01T08:35:12Z</time>
+      </trkpt>
+      <trkpt lat="46.830029000" lon="7.308430000">
+        <ele>765.000000</ele>
+        <time>2012-05-01T08:35:45Z</time>
+      </trkpt>
+      <trkpt lat="46.830612000" lon="7.309872000">
+        <ele>764.000000</ele>
+        <time>2012-05-01T08:36:18Z</time>
+      </trkpt>
+      <trkpt lat="46.830666000" lon="7.309886000">
+        <ele>764.000000</ele>
+        <time>2012-05-01T08:36:51Z</time>
+      </trkpt>
+      <trkpt lat="46.831158000" lon="7.311514000">
+        <ele>768.000000</ele>
+        <time>2012-05-01T08:37:24Z</time>
+      </trkpt>
+      <trkpt lat="46.831295000" lon="7.312198000">
+        <ele>771.000000</ele>
+        <time>2012-05-01T08:37:57Z</time>
+      </trkpt>
+      <trkpt lat="46.831451000" lon="7.312592000">
+        <ele>772.000000</ele>
+        <time>2012-05-01T08:38:30Z</time>
+      </trkpt>
+      <trkpt lat="46.831734000" lon="7.313003000">
+        <ele>773.000000</ele>
+        <time>2012-05-01T08:39:03Z</time>
+      </trkpt>
+      <trkpt lat="46.832565000" lon="7.313597000">
+        <ele>778.000000</ele>
+        <time>2012-05-01T08:39:36Z</time>
+      </trkpt>
+      <trkpt lat="46.832409000" lon="7.314481000">
+        <ele>782.000000</ele>
+        <time>2012-05-01T08:40:09Z</time>
+      </trkpt>
+      <trkpt lat="46.832363000" lon="7.315248000">
+        <ele>784.000000</ele>
+        <time>2012-05-01T08:40:42Z</time>
+      </trkpt>
+      <trkpt lat="46.832615000" lon="7.316384000">
+        <ele>783.000000</ele>
+        <time>2012-05-01T08:41:15Z</time>
+      </trkpt>
+      <trkpt lat="46.832905000" lon="7.317337000">
+        <ele>780.000000</ele>
+        <time>2012-05-01T08:41:48Z</time>
+      </trkpt>
+      <trkpt lat="46.833073000" lon="7.318438000">
+        <ele>777.000000</ele>
+        <time>2012-05-01T08:42:21Z</time>
+      </trkpt>
+      <trkpt lat="46.833508000" lon="7.318552000">
+        <ele>775.000000</ele>
+        <time>2012-05-01T08:42:54Z</time>
+      </trkpt>
+      <trkpt lat="46.833332000" lon="7.319378000">
+        <ele>775.000000</ele>
+        <time>2012-05-01T08:43:27Z</time>
+      </trkpt>
+      <trkpt lat="46.833199000" lon="7.320929000">
+        <ele>772.000000</ele>
+        <time>2012-05-01T08:44:00Z</time>
+      </trkpt>
+      <trkpt lat="46.833244000" lon="7.320974000">
+        <ele>772.000000</ele>
+        <time>2012-05-01T08:44:33Z</time>
+      </trkpt>
+      <trkpt lat="46.832924000" lon="7.322033000">
+        <ele>765.000000</ele>
+        <time>2012-05-01T08:45:06Z</time>
+      </trkpt>
+      <trkpt lat="46.832783000" lon="7.322235000">
+        <ele>763.000000</ele>
+        <time>2012-05-01T08:45:39Z</time>
+      </trkpt>
+      <trkpt lat="46.832649000" lon="7.322655000">
+        <ele>759.000000</ele>
+        <time>2012-05-01T08:46:12Z</time>
+      </trkpt>
+      <trkpt lat="46.832481000" lon="7.323302000">
+        <ele>754.000000</ele>
+        <time>2012-05-01T08:46:45Z</time>
+      </trkpt>
+      <trkpt lat="46.832485000" lon="7.323520000">
+        <ele>752.000000</ele>
+        <time>2012-05-01T08:47:18Z</time>
+      </trkpt>
+      <trkpt lat="46.832317000" lon="7.323910000">
+        <ele>749.000000</ele>
+        <time>2012-05-01T08:47:51Z</time>
+      </trkpt>
+      <trkpt lat="46.832123000" lon="7.325284000">
+        <ele>744.000000</ele>
+        <time>2012-05-01T08:48:24Z</time>
+      </trkpt>
+      <trkpt lat="46.832481000" lon="7.325533000">
+        <ele>741.000000</ele>
+        <time>2012-05-01T08:48:57Z</time>
+      </trkpt>
+      <trkpt lat="46.833473000" lon="7.325880000">
+        <ele>736.000000</ele>
+        <time>2012-05-01T08:49:30Z</time>
+      </trkpt>
+      <trkpt lat="46.834290000" lon="7.326665000">
+        <ele>729.000000</ele>
+        <time>2012-05-01T08:50:03Z</time>
+      </trkpt>
+      <trkpt lat="46.834484000" lon="7.326759000">
+        <ele>727.000000</ele>
+        <time>2012-05-01T08:50:36Z</time>
+      </trkpt>
+      <trkpt lat="46.834576000" lon="7.326734000">
+        <ele>725.000000</ele>
+        <time>2012-05-01T08:51:09Z</time>
+      </trkpt>
+      <trkpt lat="46.834755000" lon="7.326858000">
+        <ele>723.000000</ele>
+        <time>2012-05-01T08:51:42Z</time>
+      </trkpt>
+      <trkpt lat="46.834835000" lon="7.326997000">
+        <ele>722.000000</ele>
+        <time>2012-05-01T08:52:15Z</time>
+      </trkpt>
+      <trkpt lat="46.834743000" lon="7.327248000">
+        <ele>720.000000</ele>
+        <time>2012-05-01T08:52:48Z</time>
+      </trkpt>
+      <trkpt lat="46.834915000" lon="7.327312000">
+        <ele>718.000000</ele>
+        <time>2012-05-01T08:53:21Z</time>
+      </trkpt>
+      <trkpt lat="46.835140000" lon="7.327609000">
+        <ele>714.000000</ele>
+        <time>2012-05-01T08:53:54Z</time>
+      </trkpt>
+      <trkpt lat="46.835251000" lon="7.327590000">
+        <ele>713.000000</ele>
+        <time>2012-05-01T08:54:27Z</time>
+      </trkpt>
+      <trkpt lat="46.835381000" lon="7.327704000">
+        <ele>712.000000</ele>
+        <time>2012-05-01T08:55:00Z</time>
+      </trkpt>
+      <trkpt lat="46.835640000" lon="7.327778000">
+        <ele>710.000000</ele>
+        <time>2012-05-01T08:55:33Z</time>
+      </trkpt>
+      <trkpt lat="46.835831000" lon="7.327764000">
+        <ele>710.000000</ele>
+        <time>2012-05-01T08:56:06Z</time>
+      </trkpt>
+      <trkpt lat="46.836002000" lon="7.327891000">
+        <ele>710.000000</ele>
+        <time>2012-05-01T08:56:39Z</time>
+      </trkpt>
+      <trkpt lat="46.836079000" lon="7.328151000">
+        <ele>710.000000</ele>
+        <time>2012-05-01T08:57:12Z</time>
+      </trkpt>
+      <trkpt lat="46.836349000" lon="7.328291000">
+        <ele>711.000000</ele>
+        <time>2012-05-01T08:57:45Z</time>
+      </trkpt>
+      <trkpt lat="46.836693000" lon="7.329503000">
+        <ele>719.000000</ele>
+        <time>2012-05-01T08:58:18Z</time>
+      </trkpt>
+      <trkpt lat="46.836781000" lon="7.329544000">
+        <ele>720.000000</ele>
+        <time>2012-05-01T08:58:51Z</time>
+      </trkpt>
+      <trkpt lat="46.836815000" lon="7.329498000">
+        <ele>720.000000</ele>
+        <time>2012-05-01T08:59:24Z</time>
+      </trkpt>
+      <trkpt lat="46.836952000" lon="7.329617000">
+        <ele>721.000000</ele>
+        <time>2012-05-01T08:59:57Z</time>
+      </trkpt>
+      <trkpt lat="46.837147000" lon="7.329671000">
+        <ele>721.000000</ele>
+        <time>2012-05-01T09:00:30Z</time>
+      </trkpt>
+      <trkpt lat="46.837929000" lon="7.329687000">
+        <ele>722.000000</ele>
+        <time>2012-05-01T09:01:03Z</time>
+      </trkpt>
+      <trkpt lat="46.838406000" lon="7.329897000">
+        <ele>724.000000</ele>
+        <time>2012-05-01T09:01:36Z</time>
+      </trkpt>
+      <trkpt lat="46.838749000" lon="7.329824000">
+        <ele>723.000000</ele>
+        <time>2012-05-01T09:02:09Z</time>
+      </trkpt>
+      <trkpt lat="46.838535000" lon="7.329998000">
+        <ele>720.000000</ele>
+        <time>2012-05-01T09:02:42Z</time>
+      </trkpt>
+      <trkpt lat="46.838284000" lon="7.330037000">
+        <ele>715.000000</ele>
+        <time>2012-05-01T09:03:15Z</time>
+      </trkpt>
+      <trkpt lat="46.838139000" lon="7.330133000">
+        <ele>711.000000</ele>
+        <time>2012-05-01T09:03:48Z</time>
+      </trkpt>
+      <trkpt lat="46.837868000" lon="7.330445000">
+        <ele>702.000000</ele>
+        <time>2012-05-01T09:04:21Z</time>
+      </trkpt>
+      <trkpt lat="46.837704000" lon="7.330746000">
+        <ele>696.000000</ele>
+        <time>2012-05-01T09:04:54Z</time>
+      </trkpt>
+      <trkpt lat="46.837673000" lon="7.331280000">
+        <ele>687.000000</ele>
+        <time>2012-05-01T09:05:27Z</time>
+      </trkpt>
+      <trkpt lat="46.837814000" lon="7.331764000">
+        <ele>677.000000</ele>
+        <time>2012-05-01T09:06:00Z</time>
+      </trkpt>
+      <trkpt lat="46.837631000" lon="7.331730000">
+        <ele>670.000000</ele>
+        <time>2012-05-01T09:06:33Z</time>
+      </trkpt>
+      <trkpt lat="46.837528000" lon="7.331863000">
+        <ele>665.000000</ele>
+        <time>2012-05-01T09:07:06Z</time>
+      </trkpt>
+      <trkpt lat="46.837234000" lon="7.331917000">
+        <ele>655.000000</ele>
+        <time>2012-05-01T09:07:39Z</time>
+      </trkpt>
+      <trkpt lat="46.837067000" lon="7.332040000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T09:08:12Z</time>
+      </trkpt>
+      <trkpt lat="46.837029000" lon="7.331990000">
+        <ele>648.000000</ele>
+        <time>2012-05-01T09:08:45Z</time>
+      </trkpt>
+      <trkpt lat="46.836975000" lon="7.332113000">
+        <ele>645.000000</ele>
+        <time>2012-05-01T09:09:18Z</time>
+      </trkpt>
+      <trkpt lat="46.836952000" lon="7.332051000">
+        <ele>644.000000</ele>
+        <time>2012-05-01T09:09:51Z</time>
+      </trkpt>
+      <trkpt lat="46.836735000" lon="7.332158000">
+        <ele>639.000000</ele>
+        <time>2012-05-01T09:10:24Z</time>
+      </trkpt>
+      <trkpt lat="46.836548000" lon="7.332408000">
+        <ele>635.000000</ele>
+        <time>2012-05-01T09:10:57Z</time>
+      </trkpt>
+      <trkpt lat="46.836449000" lon="7.332395000">
+        <ele>633.000000</ele>
+        <time>2012-05-01T09:11:30Z</time>
+      </trkpt>
+      <trkpt lat="46.836224000" lon="7.332659000">
+        <ele>629.000000</ele>
+        <time>2012-05-01T09:12:03Z</time>
+      </trkpt>
+      <trkpt lat="46.836170000" lon="7.332634000">
+        <ele>629.000000</ele>
+        <time>2012-05-01T09:12:36Z</time>
+      </trkpt>
+      <trkpt lat="46.836143000" lon="7.332790000">
+        <ele>628.000000</ele>
+        <time>2012-05-01T09:13:09Z</time>
+      </trkpt>
+      <trkpt lat="46.836086000" lon="7.332779000">
+        <ele>628.000000</ele>
+        <time>2012-05-01T09:13:42Z</time>
+      </trkpt>
+      <trkpt lat="46.835804000" lon="7.332305000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:14:15Z</time>
+      </trkpt>
+      <trkpt lat="46.835468000" lon="7.332580000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:14:48Z</time>
+      </trkpt>
+      <trkpt lat="46.835396000" lon="7.332491000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:15:21Z</time>
+      </trkpt>
+      <trkpt lat="46.835442000" lon="7.332476000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:15:54Z</time>
+      </trkpt>
+      <trkpt lat="46.835316000" lon="7.332734000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:16:27Z</time>
+      </trkpt>
+      <trkpt lat="46.835293000" lon="7.332614000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:17:00Z</time>
+      </trkpt>
+      <trkpt lat="46.835251000" lon="7.332645000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:17:33Z</time>
+      </trkpt>
+      <trkpt lat="46.835140000" lon="7.332556000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:18:06Z</time>
+      </trkpt>
+      <trkpt lat="46.835026000" lon="7.332245000">
+        <ele>627.000000</ele>
+        <time>2012-05-01T09:18:39Z</time>
+      </trkpt>
+      <trkpt lat="46.834785000" lon="7.332081000">
+        <ele>628.000000</ele>
+        <time>2012-05-01T09:19:12Z</time>
+      </trkpt>
+      <trkpt lat="46.834625000" lon="7.332210000">
+        <ele>630.000000</ele>
+        <time>2012-05-01T09:19:45Z</time>
+      </trkpt>
+      <trkpt lat="46.834591000" lon="7.332334000">
+        <ele>631.000000</ele>
+        <time>2012-05-01T09:20:18Z</time>
+      </trkpt>
+      <trkpt lat="46.834503000" lon="7.332711000">
+        <ele>634.000000</ele>
+        <time>2012-05-01T09:20:51Z</time>
+      </trkpt>
+      <trkpt lat="46.834564000" lon="7.333013000">
+        <ele>635.000000</ele>
+        <time>2012-05-01T09:21:24Z</time>
+      </trkpt>
+      <trkpt lat="46.834305000" lon="7.333197000">
+        <ele>639.000000</ele>
+        <time>2012-05-01T09:21:57Z</time>
+      </trkpt>
+      <trkpt lat="46.834290000" lon="7.333302000">
+        <ele>640.000000</ele>
+        <time>2012-05-01T09:22:30Z</time>
+      </trkpt>
+      <trkpt lat="46.834194000" lon="7.333255000">
+        <ele>641.000000</ele>
+        <time>2012-05-01T09:23:03Z</time>
+      </trkpt>
+      <trkpt lat="46.834053000" lon="7.333311000">
+        <ele>643.000000</ele>
+        <time>2012-05-01T09:23:36Z</time>
+      </trkpt>
+      <trkpt lat="46.834114000" lon="7.333385000">
+        <ele>644.000000</ele>
+        <time>2012-05-01T09:24:09Z</time>
+      </trkpt>
+      <trkpt lat="46.833858000" lon="7.333367000">
+        <ele>648.000000</ele>
+        <time>2012-05-01T09:24:42Z</time>
+      </trkpt>
+      <trkpt lat="46.833805000" lon="7.333247000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T09:25:15Z</time>
+      </trkpt>
+      <trkpt lat="46.833984000" lon="7.332792000">
+        <ele>657.000000</ele>
+        <time>2012-05-01T09:25:48Z</time>
+      </trkpt>
+      <trkpt lat="46.833530000" lon="7.332889000">
+        <ele>666.000000</ele>
+        <time>2012-05-01T09:26:21Z</time>
+      </trkpt>
+      <trkpt lat="46.833481000" lon="7.333066000">
+        <ele>669.000000</ele>
+        <time>2012-05-01T09:26:54Z</time>
+      </trkpt>
+      <trkpt lat="46.833347000" lon="7.333124000">
+        <ele>672.000000</ele>
+        <time>2012-05-01T09:27:27Z</time>
+      </trkpt>
+      <trkpt lat="46.833332000" lon="7.333188000">
+        <ele>673.000000</ele>
+        <time>2012-05-01T09:28:00Z</time>
+      </trkpt>
+      <trkpt lat="46.833149000" lon="7.333248000">
+        <ele>678.000000</ele>
+        <time>2012-05-01T09:28:33Z</time>
+      </trkpt>
+      <trkpt lat="46.832996000" lon="7.333184000">
+        <ele>681.000000</ele>
+        <time>2012-05-01T09:29:06Z</time>
+      </trkpt>
+      <trkpt lat="46.832809000" lon="7.333395000">
+        <ele>686.000000</ele>
+        <time>2012-05-01T09:29:39Z</time>
+      </trkpt>
+      <trkpt lat="46.832752000" lon="7.333263000">
+        <ele>688.000000</ele>
+        <time>2012-05-01T09:30:12Z</time>
+      </trkpt>
+      <trkpt lat="46.832756000" lon="7.333388000">
+        <ele>690.000000</ele>
+        <time>2012-05-01T09:30:45Z</time>
+      </trkpt>
+      <trkpt lat="46.832668000" lon="7.333315000">
+        <ele>692.000000</ele>
+        <time>2012-05-01T09:31:18Z</time>
+      </trkpt>
+      <trkpt lat="46.832573000" lon="7.333326000">
+        <ele>694.000000</ele>
+        <time>2012-05-01T09:31:51Z</time>
+      </trkpt>
+      <trkpt lat="46.832619000" lon="7.333296000">
+        <ele>695.000000</ele>
+        <time>2012-05-01T09:32:24Z</time>
+      </trkpt>
+      <trkpt lat="46.832142000" lon="7.333335000">
+        <ele>705.000000</ele>
+        <time>2012-05-01T09:32:57Z</time>
+      </trkpt>
+      <trkpt lat="46.832047000" lon="7.333602000">
+        <ele>710.000000</ele>
+        <time>2012-05-01T09:33:30Z</time>
+      </trkpt>
+      <trkpt lat="46.832081000" lon="7.333927000">
+        <ele>716.000000</ele>
+        <time>2012-05-01T09:34:03Z</time>
+      </trkpt>
+      <trkpt lat="46.831772000" lon="7.333962000">
+        <ele>723.000000</ele>
+        <time>2012-05-01T09:34:36Z</time>
+      </trkpt>
+      <trkpt lat="46.831818000" lon="7.334229000">
+        <ele>724.000000</ele>
+        <time>2012-05-01T09:35:09Z</time>
+      </trkpt>
+      <trkpt lat="46.831734000" lon="7.334297000">
+        <ele>724.000000</ele>
+        <time>2012-05-01T09:35:42Z</time>
+      </trkpt>
+      <trkpt lat="46.831802000" lon="7.334358000">
+        <ele>724.000000</ele>
+        <time>2012-05-01T09:36:15Z</time>
+      </trkpt>
+      <trkpt lat="46.831776000" lon="7.334597000">
+        <ele>724.000000</ele>
+        <time>2012-05-01T09:36:48Z</time>
+      </trkpt>
+      <trkpt lat="46.831360000" lon="7.334940000">
+        <ele>720.000000</ele>
+        <time>2012-05-01T09:37:21Z</time>
+      </trkpt>
+      <trkpt lat="46.831364000" lon="7.334742000">
+        <ele>718.000000</ele>
+        <time>2012-05-01T09:37:54Z</time>
+      </trkpt>
+      <trkpt lat="46.831127000" lon="7.334610000">
+        <ele>716.000000</ele>
+        <time>2012-05-01T09:38:27Z</time>
+      </trkpt>
+      <trkpt lat="46.831024000" lon="7.334426000">
+        <ele>715.000000</ele>
+        <time>2012-05-01T09:39:00Z</time>
+      </trkpt>
+      <trkpt lat="46.831051000" lon="7.334355000">
+        <ele>715.000000</ele>
+        <time>2012-05-01T09:39:33Z</time>
+      </trkpt>
+      <trkpt lat="46.830921000" lon="7.334283000">
+        <ele>714.000000</ele>
+        <time>2012-05-01T09:40:06Z</time>
+      </trkpt>
+      <trkpt lat="46.831036000" lon="7.333552000">
+        <ele>713.000000</ele>
+        <time>2012-05-01T09:40:39Z</time>
+      </trkpt>
+      <trkpt lat="46.830963000" lon="7.333250000">
+        <ele>713.000000</ele>
+        <time>2012-05-01T09:41:12Z</time>
+      </trkpt>
+      <trkpt lat="46.830883000" lon="7.333161000">
+        <ele>713.000000</ele>
+        <time>2012-05-01T09:41:45Z</time>
+      </trkpt>
+      <trkpt lat="46.830463000" lon="7.333256000">
+        <ele>714.000000</ele>
+        <time>2012-05-01T09:42:18Z</time>
+      </trkpt>
+      <trkpt lat="46.830280000" lon="7.333146000">
+        <ele>714.000000</ele>
+        <time>2012-05-01T09:42:51Z</time>
+      </trkpt>
+      <trkpt lat="46.829910000" lon="7.333117000">
+        <ele>715.000000</ele>
+        <time>2012-05-01T09:43:24Z</time>
+      </trkpt>
+      <trkpt lat="46.829449000" lon="7.332970000">
+        <ele>715.000000</ele>
+        <time>2012-05-01T09:43:57Z</time>
+      </trkpt>
+      <trkpt lat="46.829353000" lon="7.333036000">
+        <ele>715.000000</ele>
+        <time>2012-05-01T09:44:30Z</time>
+      </trkpt>
+      <trkpt lat="46.829231000" lon="7.332993000">
+        <ele>714.000000</ele>
+        <time>2012-05-01T09:45:03Z</time>
+      </trkpt>
+      <trkpt lat="46.829185000" lon="7.332873000">
+        <ele>714.000000</ele>
+        <time>2012-05-01T09:45:36Z</time>
+      </trkpt>
+      <trkpt lat="46.829220000" lon="7.332520000">
+        <ele>712.000000</ele>
+        <time>2012-05-01T09:46:09Z</time>
+      </trkpt>
+      <trkpt lat="46.828976000" lon="7.332488000">
+        <ele>712.000000</ele>
+        <time>2012-05-01T09:46:42Z</time>
+      </trkpt>
+      <trkpt lat="46.828991000" lon="7.332351000">
+        <ele>711.000000</ele>
+        <time>2012-05-01T09:47:15Z</time>
+      </trkpt>
+      <trkpt lat="46.828869000" lon="7.332010000">
+        <ele>711.000000</ele>
+        <time>2012-05-01T09:47:48Z</time>
+      </trkpt>
+      <trkpt lat="46.828651000" lon="7.331677000">
+        <ele>712.000000</ele>
+        <time>2012-05-01T09:48:21Z</time>
+      </trkpt>
+      <trkpt lat="46.828442000" lon="7.331554000">
+        <ele>712.000000</ele>
+        <time>2012-05-01T09:48:54Z</time>
+      </trkpt>
+      <trkpt lat="46.828251000" lon="7.331547000">
+        <ele>712.000000</ele>
+        <time>2012-05-01T09:49:27Z</time>
+      </trkpt>
+      <trkpt lat="46.827797000" lon="7.330989000">
+        <ele>703.000000</ele>
+        <time>2012-05-01T09:50:00Z</time>
+      </trkpt>
+      <trkpt lat="46.827801000" lon="7.330834000">
+        <ele>700.000000</ele>
+        <time>2012-05-01T09:50:33Z</time>
+      </trkpt>
+      <trkpt lat="46.827713000" lon="7.330687000">
+        <ele>696.000000</ele>
+        <time>2012-05-01T09:51:06Z</time>
+      </trkpt>
+      <trkpt lat="46.827766000" lon="7.330464000">
+        <ele>689.000000</ele>
+        <time>2012-05-01T09:51:39Z</time>
+      </trkpt>
+      <trkpt lat="46.827477000" lon="7.330209000">
+        <ele>681.000000</ele>
+        <time>2012-05-01T09:52:12Z</time>
+      </trkpt>
+      <trkpt lat="46.827354000" lon="7.330423000">
+        <ele>676.000000</ele>
+        <time>2012-05-01T09:52:45Z</time>
+      </trkpt>
+      <trkpt lat="46.827126000" lon="7.330405000">
+        <ele>674.000000</ele>
+        <time>2012-05-01T09:53:18Z</time>
+      </trkpt>
+      <trkpt lat="46.827347000" lon="7.330258000">
+        <ele>665.000000</ele>
+        <time>2012-05-01T09:53:51Z</time>
+      </trkpt>
+      <trkpt lat="46.827377000" lon="7.330043000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T09:54:24Z</time>
+      </trkpt>
+      <trkpt lat="46.827797000" lon="7.329755000">
+        <ele>651.000000</ele>
+        <time>2012-05-01T09:54:57Z</time>
+      </trkpt>
+      <trkpt lat="46.827850000" lon="7.329627000">
+        <ele>650.000000</ele>
+        <time>2012-05-01T09:55:30Z</time>
+      </trkpt>
+      <trkpt lat="46.827740000" lon="7.329348000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T09:56:03Z</time>
+      </trkpt>
+      <trkpt lat="46.827759000" lon="7.329048000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T09:56:36Z</time>
+      </trkpt>
+      <trkpt lat="46.827675000" lon="7.328857000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T09:57:09Z</time>
+      </trkpt>
+      <trkpt lat="46.827656000" lon="7.328483000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T09:57:42Z</time>
+      </trkpt>
+      <trkpt lat="46.827469000" lon="7.328059000">
+        <ele>649.000000</ele>
+        <time>2012-05-01T09:58:15Z</time>
+      </trkpt>
+      <trkpt lat="46.827290000" lon="7.327106000">
+        <ele>646.000000</ele>
+        <time>2012-05-01T09:58:48Z</time>
+      </trkpt>
+      <trkpt lat="46.827335000" lon="7.326425000">
+        <ele>645.000000</ele>
+        <time>2012-05-01T09:59:21Z</time>
+      </trkpt>
+      <trkpt lat="46.827396000" lon="7.326289000">
+        <ele>645.000000</ele>
+        <time>2012-05-01T09:59:54Z</time>
+      </trkpt>
+      <trkpt lat="46.827305000" lon="7.325461000">
+        <ele>646.000000</ele>
+        <time>2012-05-01T10:00:27Z</time>
+      </trkpt>
+      <trkpt lat="46.827057000" lon="7.325067000">
+        <ele>646.000000</ele>
+        <time>2012-05-01T10:01:00Z</time>
+      </trkpt>
+      <trkpt lat="46.827179000" lon="7.324794000">
+        <ele>647.000000</ele>
+        <time>2012-05-01T10:01:33Z</time>
+      </trkpt>
+      <trkpt lat="46.826977000" lon="7.324772000">
+        <ele>647.000000</ele>
+        <time>2012-05-01T10:02:06Z</time>
+      </trkpt>
+      <trkpt lat="46.826775000" lon="7.324554000">
+        <ele>648.000000</ele>
+        <time>2012-05-01T10:02:39Z</time>
+      </trkpt>
+      <trkpt lat="46.826923000" lon="7.323873000">
+        <ele>648.000000</ele>
+        <time>2012-05-01T10:03:12Z</time>
+      </trkpt>
+      <trkpt lat="46.826618000" lon="7.323063000">
+        <ele>650.000000</ele>
+        <time>2012-05-01T10:03:45Z</time>
+      </trkpt>
+      <trkpt lat="46.826313000" lon="7.322795000">
+        <ele>651.000000</ele>
+        <time>2012-05-01T10:04:18Z</time>
+      </trkpt>
+      <trkpt lat="46.826336000" lon="7.322530000">
+        <ele>652.000000</ele>
+        <time>2012-05-01T10:04:51Z</time>
+      </trkpt>
+      <trkpt lat="46.826199000" lon="7.322246000">
+        <ele>652.000000</ele>
+        <time>2012-05-01T10:05:24Z</time>
+      </trkpt>
+      <trkpt lat="46.826229000" lon="7.322098000">
+        <ele>653.000000</ele>
+        <time>2012-05-01T10:05:57Z</time>
+      </trkpt>
+      <trkpt lat="46.825951000" lon="7.321775000">
+        <ele>653.000000</ele>
+        <time>2012-05-01T10:06:30Z</time>
+      </trkpt>
+      <trkpt lat="46.826012000" lon="7.321574000">
+        <ele>654.000000</ele>
+        <time>2012-05-01T10:07:03Z</time>
+      </trkpt>
+      <trkpt lat="46.825974000" lon="7.321444000">
+        <ele>654.000000</ele>
+        <time>2012-05-01T10:07:36Z</time>
+      </trkpt>
+      <trkpt lat="46.825775000" lon="7.321334000">
+        <ele>655.000000</ele>
+        <time>2012-05-01T10:08:09Z</time>
+      </trkpt>
+      <trkpt lat="46.825657000" lon="7.320806000">
+        <ele>657.000000</ele>
+        <time>2012-05-01T10:08:42Z</time>
+      </trkpt>
+      <trkpt lat="46.825386000" lon="7.320581000">
+        <ele>659.000000</ele>
+        <time>2012-05-01T10:09:15Z</time>
+      </trkpt>
+      <trkpt lat="46.825237000" lon="7.320571000">
+        <ele>660.000000</ele>
+        <time>2012-05-01T10:09:48Z</time>
+      </trkpt>
+      <trkpt lat="46.825256000" lon="7.320415000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:10:21Z</time>
+      </trkpt>
+      <trkpt lat="46.825245000" lon="7.320486000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:10:54Z</time>
+      </trkpt>
+      <trkpt lat="46.825188000" lon="7.320477000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:11:27Z</time>
+      </trkpt>
+      <trkpt lat="46.825161000" lon="7.319736000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:12:00Z</time>
+      </trkpt>
+      <trkpt lat="46.825230000" lon="7.319466000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:12:33Z</time>
+      </trkpt>
+      <trkpt lat="46.825184000" lon="7.319440000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:13:06Z</time>
+      </trkpt>
+      <trkpt lat="46.825180000" lon="7.319057000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:13:39Z</time>
+      </trkpt>
+      <trkpt lat="46.825222000" lon="7.318700000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:14:12Z</time>
+      </trkpt>
+      <trkpt lat="46.825348000" lon="7.318389000">
+        <ele>661.000000</ele>
+        <time>2012-05-01T10:14:45Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2020-12-24T05:49:12.319Z</time>
+    <bounds minlat="46.552486000" minlon="6.250555000" maxlat="46.555119000" maxlon="6.255385000"/>
+  </metadata>
+  <trk>
+    <name>Waldameisen-Pfad</name>
+    <trkseg>
+      <trkpt lat="46.552670000" lon="6.250555000">
+        <ele>1451.000000</ele>
+      </trkpt>
+      <trkpt lat="46.553936000" lon="6.252104000">
+        <ele>1449.000000</ele>
+      </trkpt>
+      <trkpt lat="46.554665000" lon="6.253242000">
+        <ele>1451.000000</ele>
+      </trkpt>
+      <trkpt lat="46.555119000" lon="6.253835000">
+        <ele>1458.000000</ele>
+      </trkpt>
+      <trkpt lat="46.554756000" lon="6.255385000">
+        <ele>1454.000000</ele>
+      </trkpt>
+      <trkpt lat="46.554558000" lon="6.255219000">
+        <ele>1453.000000</ele>
+      </trkpt>
+      <trkpt lat="46.554420000" lon="6.254850000">
+        <ele>1453.000000</ele>
+      </trkpt>
+      <trkpt lat="46.553909000" lon="6.254263000">
+        <ele>1449.000000</ele>
+      </trkpt>
+      <trkpt lat="46.553795000" lon="6.253987000">
+        <ele>1449.000000</ele>
+      </trkpt>
+      <trkpt lat="46.553131000" lon="6.253143000">
+        <ele>1447.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552765000" lon="6.252789000">
+        <ele>1447.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552486000" lon="6.251443000">
+        <ele>1449.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
